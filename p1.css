@@ -1,0 +1,36 @@
+ h2{
+     background-color: #AF7AC5;
+    }
+
+ table,tr,td{
+        border: 3px solid black;
+      background-color:#AF7AC5;
+     
+        }
+
+body{
+    background-color:#58FAF4;
+}
+
+h1{
+    text-align:center;
+    font size:"10";
+    color:#AF7AC5;
+}
+
+hr{
+    background-color: #AF7AC5;
+     border-width: thick;
+}
+
+footer{
+    text-align: center;
+    background-color: darkgrey;
+}
+
+span{
+    background-color: #AF7AC5;
+    
+}
+
+nav{text-align: center;}
